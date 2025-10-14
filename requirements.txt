@@ -1,6 +1,5 @@
-# Placeholder for project dependencies
-
 fastapi
 uvicorn
 anthropic
 requests
+httpx
